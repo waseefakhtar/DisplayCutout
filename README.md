@@ -1,6 +1,7 @@
 # Android Material Component: Toolbar vs DisplayCutout
 
-## Tutorial: https://www.waseefakhtar.com/android/android-material-component-toolbar-vs-displaycutout/ </br>
+## Tutorial: 
+https://www.waseefakhtar.com/android/android-material-component-toolbar-vs-displaycutout/ </br>
 
 ### Screenshots
 
